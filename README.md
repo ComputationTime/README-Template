@@ -22,8 +22,7 @@ echo hello
 echo world
 ```
 ### Help
-#### FAQ:
-#### Where to ask for help
+Check if your question has been answered in the discussion section. If not, ask a question there. The core contributors will respond as soon as they can.
 ### Core Contributors
 ### License
 This project is licensed under the [] Lincense. See the license alongside the code in the LICENSE file.
