@@ -1,2 +1,30 @@
-# README-Template
-A template for project READMEs
+# Project Title
+A quick description of the project's purpose. What problem does it solve?
+
+## Quick Start
+### Requirements
+* OS
+* library
+* etc.
+
+### Installation
+here's how you install
+```bash
+brew install *
+```
+### Basic Usage
+#### Task 1:
+```bash
+echo hello
+```
+#### Task 2:
+```bash
+echo world
+```
+### Help
+#### FAQ:
+#### Where to ask for help
+### Core Contributors
+### License
+This project is licensed under the [] Lincense. See the license alongside the code in the LICENSE file.
+### Acknowledgments
